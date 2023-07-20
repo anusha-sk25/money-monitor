@@ -2,7 +2,7 @@
   "name": "money-monitor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://anusha-sk25.github.io/money-monitor",
+  "homepage": "https://anusha-sk25.github.io/my-app",
   "dependencies": {
     "@heroicons/react": "^2.0.18",
     "@testing-library/jest-dom": "^5.16.5",

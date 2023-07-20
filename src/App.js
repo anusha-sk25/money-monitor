@@ -34,9 +34,9 @@ function App() {
           <Button variant="outline-primary" onClick={openAddExpenseModal}>Add Expense</Button>
         </Stack>
         <div style={{
-          
+
           display: "grid",
-          
+
           gridTemplateColumns: "repeat{auto-fill,minmax(300px,1fr))",
           gap: "1rem",
           alignItems: "flex-start",
@@ -65,13 +65,12 @@ function App() {
             }
 
           />
+
           
-          
-          <TotalBudgetCard />
-          <ThemeSwitcher />
-          
+
+
         </div>
-        
+
       </Container>
       <AddBudgetModal
         show={showAddBudgetModal}
